@@ -9,10 +9,9 @@ Screenshots
 #### Dark Theme
 <img src="https://user-images.githubusercontent.com/87424785/236663359-d056c040-cfcc-4995-906d-c4b0a6941366.png" alt="drawing" width="300" height="300"/><img src="https://user-images.githubusercontent.com/87424785/236663362-1cae65f6-ac62-4ba2-ba59-8f3e9543f0a9.png" alt="drawing" width="300" height="300"/>
 
-
 Demo
 ---------------
-https://user-images.githubusercontent.com/87424785/236663613-1e7cb431-e69f-40ec-aefb-7ca11fa66bb2.mp4
+https://user-images.githubusercontent.com/87424785/236663855-0d51051d-ae80-4a8a-bdfb-6fd33d8a108b.mp4
 
 Tech Stack
 ---------------
