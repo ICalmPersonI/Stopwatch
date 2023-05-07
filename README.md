@@ -15,6 +15,7 @@ https://user-images.githubusercontent.com/87424785/236663855-0d51051d-ae80-4a8a-
 
 Tech Stack
 ---------------
+- [Flutter](https://flutter.dev)
 - [springf](https://pub.dev/packages/sprintf)
 - [bloc](https://pub.dev/packages/bloc)
 - [flutter_svg](https://pub.dev/packages/flutter_svg)
