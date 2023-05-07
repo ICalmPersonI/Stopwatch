@@ -1,5 +1,5 @@
 # Stopwatch
-My first attempt to write something on Dart. The peculiarity of this stopwatch is that it won't stop until you stop it, it works constantly.
+My first attempt to write something on Dart. The peculiarity of this stopwatch is that it won't stop until you stop it, it works constantly (even if you close the app.).
 
 Screenshots
 ---------------
